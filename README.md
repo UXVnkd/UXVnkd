@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey, I'm Venkadakrishnan Paranjothi, but you can call me VK.
 
-<!--
-**UXVnkd/UXVnkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Design engineer in Seattle. I design in Figma and ship in React/TypeScript.
+M.S. HCI, CU Boulder.
 
-Here are some ideas to get you started:
+Working with a Figma MCP + code workflow. Building Feels, an iOS app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn →](https://www.linkedin.com/in/vkrishnanux/)  
+[@designer62626 on X →](https://x.com/designer62626)
+
+
+
+
